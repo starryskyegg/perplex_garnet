@@ -1,9 +1,0 @@
-P-T condition of core:
-	Temperature = 733.9114335895024 K
-	Pressure = 6080.216535433071 bar
-P-T condition of mantle:
-	Temperature = 824.2477332273834 K
-	Pressure = 6611.712598425197 bar
-P-T condition of rim:
-	Temperature = 885.4793967024737 K
-	Pressure = 6873.031496062993 bar
